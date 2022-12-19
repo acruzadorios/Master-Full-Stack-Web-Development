@@ -1,7 +1,7 @@
 {
-  "name": "master-full-stack-web-development",
+  "name": "prueba-dos",
   "version": "1.0.0",
-  "description": "",
+  "description": "Esto es un ejercicio para entender y ejecutar una serie de conceptos básicos de programación",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,14 @@
     "url": "git+https://github.com/acruzadorios/Master-Full-Stack-Web-Development.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "acruzadorios",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/acruzadorios/Master-Full-Stack-Web-Development/issues"
   },
-  "homepage": "https://github.com/acruzadorios/Master-Full-Stack-Web-Development#readme"
+  "homepage": "https://github.com/acruzadorios/Master-Full-Stack-Web-Development#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  }
 }
